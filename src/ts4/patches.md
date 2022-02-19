@@ -18,3 +18,8 @@
 - [New Townie and Random Names](http://modthesims.info/d/633909/new-townie-and-random-names.html)
 - [No more Awful Holiday](http://modthesims.info/d/630589/no-more-quot-awful-holiday-quot-sad-moodlet.html)
 - [Better Making Drinks Mod Set](http://modthesims.info/d/627677/better-making-drinks-mod-set-1-52-refill-single-cup-no-auto.html)
+
+## Slots
+
+- [Toilets with Slots](http://modthesims.info/d/637655/toilets-with-slots.html)
+- [Sinks with Slots](http://modthesims.info/d/637440/sinks-with-slots.html)
