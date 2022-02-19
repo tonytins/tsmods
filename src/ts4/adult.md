@@ -1,4 +1,4 @@
-# Adult TS4 Mods
+# Adult
 
 - [WickedWhims](https://turbodriver.itch.io/wickedwhims)
 - [WonderfulWhims](https://modthesims.info/d/647895/wonderfulwhims.html)
