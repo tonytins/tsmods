@@ -3,7 +3,7 @@ authors = ["Tony Bark"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Tony's Sims Mods List"
+title = "Tony's List of Sims Mods"
 
 [rust]
 edition = "2021"
@@ -11,7 +11,7 @@ edition = "2021"
 [output.html]
 default-theme = "navy"
 no-section-label = true
-git-repository-url = "https://github.com/tonytins/caseyverse"
+git-repository-url = "https://github.com/tonytins/tsmods"
 
 [output.html.fold]
 enable = true
