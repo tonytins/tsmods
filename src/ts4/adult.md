@@ -1,7 +1,9 @@
 # Adult
 
-- [WickedWhims](https://turbodriver.itch.io/wickedwhims)
-- [WonderfulWhims](https://modthesims.info/d/647895/wonderfulwhims.html)
+| Name                                                                   | DLC  |
+| ---------------------------------------------------------------------- | ---- |
+| [WickedWhims](https://turbodriver.itch.io/wickedwhims)                 | Base |
+| [WonderfulWhims](https://modthesims.info/d/647895/wonderfulwhims.html) | Base |
 
 ## Notes
 
